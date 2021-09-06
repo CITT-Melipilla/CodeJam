@@ -1,6 +1,6 @@
 # CodeJam
 
->Imagen
+
 
 Citt CodeJam nace del interés en fomentar la práctica de la programación entre los estudiantes de las carreras impartidas por la escuela de informática en Duoc UC sede Melipilla, utilizando para ello, ejercicios interesantes y desafiantes, adecuados al nivel esperado de los estudiantes.
 
@@ -42,3 +42,6 @@ Las bases están disponibles para revisar en el siguiente link: https://docs.goo
 Si aún no se ha inscrito en esta competencia, entre al siguiente link para inscribirse: https://forms.gle/mGodN7jb8rQWUjH69
 
 -----
+
+
+> Ejercicio 1
