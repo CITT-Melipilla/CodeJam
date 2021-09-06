@@ -39,6 +39,10 @@ Las bases están disponibles para revisar en el siguiente link: https://docs.goo
 
 Si aún no se ha inscrito en esta competencia, entre al siguiente link para inscribirse: https://forms.gle/mGodN7jb8rQWUjH69
 
+## Tutorial Gist
+
+Para los alumnos que no sepan crear un "Gist" tenemos este tutorial para poder realizarlo: https://drive.google.com/file/d/1eMXLQZlDXRr5BLH6yBxDEDcOu3mlZU8-/view?usp=sharing
+
 -----
 
 
