@@ -9,11 +9,11 @@ Al momento de tener el ejercicio resuelto, el alumno debe subir el código a Gis
 
 **Algunas consideraciones:**
 - Los lenguajes aceptados para resolver las problemáticas son:
--- Python3
--- JavaScript
--- C#
--- Java
--- PHP
+  - Python3
+  - JavaScript
+  - C#
+  - Java
+  - PHP
 - **Sé creativo, no existe sólo una respuesta**
 
 ------
