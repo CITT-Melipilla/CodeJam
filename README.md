@@ -5,7 +5,7 @@ Citt CodeJam nace del interés en fomentar la práctica de la programación entr
 ## Mecánica
 CodeJam consiste en una serie de ejercicios de programación, los cuales se publicarán de forma semanal en Discord, Instagram, GitHub y Gmail. 
 Los ejercicios serán publicados todos los lunes teniendo tiempo máximo hasta el viernes de la misma semana para resolverlos.
-Al momento de tener el ejercicio resuelto, el alumno debe subir el código a Gist, cuyo título tenga el formato: **“Semana.X_NombreApellido1_NombreApellido2”** y el enlace de éste debe ser enviado al correo **“citt.duocmelipilla@gmail.com”** indicando el o los nombres de los participantes que ejecutaron la solución.
+Al momento de tener el ejercicio resuelto, el alumno debe subir el código a Gist, cuyo título tenga el formato: **“Semana.X_NombreApellido1_NombreApellido2”** y el enlace de éste debe ser enviado al correo **“citt.duocmelipilla@gmail.com”** o al Discord en el canal **#Envio-De-Ejercicios** de la categoria CodeJam, indicando el o los nombres de los participantes que ejecutaron la solución.
 
 **Algunas consideraciones:**
 - Los lenguajes aceptados para resolver las problemáticas son:
