@@ -52,18 +52,6 @@ Entrada: 12
 Salida:
 ![Triangulo](https://user-images.githubusercontent.com/89506648/132268170-d17b41f8-7398-44d5-b48a-d22e79dee14c.png)
 
-
-
-
-
-
-
-
-
-
-
-
-
 En caso de que se arroje un número negativo:
 Entrada: -5
 Salida: “Ups, este número es negativo
