@@ -48,6 +48,7 @@ Para los alumnos que no sepan crear un "Gist" tenemos este tutorial para poder r
 
 > Ejercicio 1
 Crear un programa que al dar números positivos se haga la forma de un triángulo, el programa debe detectar los números negativos y mandar un mensaje de salida
+
 Entrada: 12
 Salida:
 
