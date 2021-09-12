@@ -24,10 +24,11 @@ Los equipos participantes irán sumando puntos los cuales serán presentados en 
 
 | Equipo | Puntaje |
 | ------ | ------ |
-| Alumno 1 | 0 |
-| Alumno 2 | 0 |
-| Alumno 3 | 0 |
-| Alumno 4 | 0 |
+| Ignacio Diaz | 19 |
+| Pedro Carrasco | 17 |
+| Jose Lopez | 5 |
+| Luis Portocarrero | 5 |
+| Manuel Medina | 5 |
 
 -----
 
@@ -46,18 +47,6 @@ Para los alumnos que no sepan crear un "Gist" tenemos este tutorial para poder r
 -----
 
 
-> Ejercicio 1
+> Ejercicio 2
 > 
-> Crear un programa que al dar números positivos se haga la forma de un triángulo, el programa debe detectar los números negativos y mandar un mensaje de salida
-> 
-> Entrada: 12
-> 
-> Salida:
-> 
-> ![Triangulo](https://user-images.githubusercontent.com/89506648/132268170-d17b41f8-7398-44d5-b48a-d22e79dee14c.png)
->
-> En caso de que se arroje un número negativo:
-> 
-> Entrada: -5
-> 
-> Salida: "Ups, este número es negativo"
+> SE PUBLICARÁ MAÑANA 
