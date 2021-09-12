@@ -1,7 +1,7 @@
 ![code-removebg-preview](https://user-images.githubusercontent.com/89506648/132259163-56c1cf2a-2e01-48d7-b1b8-a03077e560eb.png)
 
 Citt CodeJam nace del interés en fomentar la práctica de la programación entre los estudiantes de las carreras impartidas por la escuela de informática en Duoc UC sede Melipilla, utilizando para ello, ejercicios interesantes y desafiantes, adecuados al nivel esperado de los estudiantes.
-
+/
 ## Mecánica
 CodeJam consiste en una serie de ejercicios de programación, los cuales se publicarán de forma semanal en Discord, Instagram, GitHub y Gmail. 
 Los ejercicios serán publicados todos los lunes teniendo tiempo máximo hasta el viernes de la misma semana para resolverlos.
@@ -54,4 +54,4 @@ Recuerden que por este medio igualmente se publican los ejercicios y se pueden e
 
 > Ejercicio 2
 > 
-> SE PUBLICARÁ MAÑANA 
+> SE PUBLICARÁ MAÑANA LUNES 13/09/2021
