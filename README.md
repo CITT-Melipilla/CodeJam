@@ -44,6 +44,11 @@ Si aún no se ha inscrito en esta competencia, entre al siguiente link para insc
 
 Para los alumnos que no sepan crear un "Gist" tenemos este tutorial para poder realizarlo: https://drive.google.com/file/d/1eMXLQZlDXRr5BLH6yBxDEDcOu3mlZU8-/view?usp=sharing
 
+## Discord Informática y Telecomunicaciones
+
+Si aún no se unen al Servidor de Discord de la escuela, el enlace es: https://discord.gg/9dVjDqetz5
+Recuerden que por este medio igualmente se publican los ejercicios y se pueden enviar las respuestas.
+
 -----
 
 
