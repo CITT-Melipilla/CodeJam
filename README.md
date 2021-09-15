@@ -66,6 +66,6 @@ Este debe seguir ciertos parámetros que nos permitan detectar si la contraseña
 >
 >Ejemplo:
 >
->Entrada: Contraseña: A3rp45.R
+>Entrada: Contraseña: A3rp45.0R6
 >Salida: La contraseña ingresada es segura
 
