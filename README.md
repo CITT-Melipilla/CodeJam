@@ -1,7 +1,7 @@
 ![code-removebg-preview](https://user-images.githubusercontent.com/89506648/132259163-56c1cf2a-2e01-48d7-b1b8-a03077e560eb.png)
 
 Citt CodeJam nace del interés en fomentar la práctica de la programación entre los estudiantes de las carreras impartidas por la escuela de informática en Duoc UC sede Melipilla, utilizando para ello, ejercicios interesantes y desafiantes, adecuados al nivel esperado de los estudiantes.
-/
+
 ## Mecánica
 CodeJam consiste en una serie de ejercicios de programación, los cuales se publicarán de forma semanal en Discord, Instagram, GitHub y Gmail. 
 Los ejercicios serán publicados todos los lunes teniendo tiempo máximo hasta el viernes de la misma semana para resolverlos.
@@ -24,11 +24,11 @@ Los equipos participantes irán sumando puntos los cuales serán presentados en 
 
 | Equipo | Puntaje |
 | ------ | ------ |
-| Ignacio Diaz | 19 |
-| Pedro Carrasco | 17 |
-| Jose Lopez | 5 |
-| Luis Portocarrero | 5 |
-| Manuel Medina | 5 |
+| Ignacio Diaz | 39 |
+| Pedro Carrasco | 35 |
+| Jose Lopez | 10 |
+| Luis Portocarrero | 10 |
+| Manuel Medina | 10 |
 
 -----
 
