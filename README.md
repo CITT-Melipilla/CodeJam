@@ -52,20 +52,6 @@ Recuerden que por este medio igualmente se publican los ejercicios y se pueden e
 -----
 
 
-> Ejercicio 2
-> 
-> Como todos saben, hoy en día las contraseñas son de uso diario por la cantidad de páginas o aplicaciones que debemos ocupar, como redes sociales, correos o incluso plataformas de estudios. Cuando uno crea una contraseña, muchas veces se nos ocurre lo primero que se viene a la mente, hasta las famosas "1234" o ""asdf", pero estas contraseñas lo menos que tienen es seguridad, lo que conlleva a que muchas de las cuentas creadas sean fáciles de "hackear", por lo cual solicitamos que ustedes puedan crear un validador de contraseñas.
-Este debe seguir ciertos parámetros que nos permitan detectar si la contraseña es válida para ocupar de forma segura. Los parámetros son los siguientes:
->
->- Debe tener un mínimo de 8 carácteres
->- Debe tener al menos 1 mayúscula
->- Debe tener como mínimo 2 minúsculas
->- Debe tener al menos 5 números
->- Debe tener un carácter que no sea alfanumérico
->- No pueden haber más de 2 caracteres del mismo tipo seguidos
->
->Ejemplo:
->
->Entrada: Contraseña: A3rp45.0R6
->Salida: La contraseña ingresada es segura
+> Ejercicio 3
 
+> SE SUBIRÁ MAÑANA 20/09/2021
