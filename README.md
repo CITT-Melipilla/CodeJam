@@ -54,4 +54,19 @@ Recuerden que por este medio igualmente se publican los ejercicios y se pueden e
 
 > Ejercicio 3
 
-> SE SUBIRÁ MAÑANA 20/09/2021
+> Como estudiantes siempre nos hemos preocupado de que nuestras notas sean buenas para lograr avanzar en colegios, institutos o universidades. Por esa misma razón los alumnos muchas veces deben calcular su promedio de notas. 
+Tomando en cuenta el caso antes planteado, se solicita crear una "calculadora de notas" la cual debe poder calcular la última nota necesaria para lograr obtener cierto promedio requerido para aprobar el ramo o el promedio que el alumno quiera. Estas notas deben poder ser calculadas con un porcentaje definido por el propio usuario y pueden ser entre 3 y 8 notas. 
+Ejemplo:
+
+Entrada:
+- Cantidad de notas: 3
+- Promedio requerido: 4.0
+- Porcentaje Nota 1: 35
+- Nota 1: 5.6
+- Porcentaje Nota 2: 35
+- Nota 2: 6.0
+
+Salida: La nota 3 debe ser un "1.0" para lograr el promedio "4.0" requerido
+
+*Si la nota es menor a la nota mínima del ramo (normalmente 1), el resultado debe ser esta nota mínima como se muestra en el ejercicio de arriba
+
