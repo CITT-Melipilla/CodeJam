@@ -68,5 +68,5 @@ Entrada:
 
 Salida: La nota 3 debe ser un "1.0" para lograr el promedio "4.0" requerido
 
-*Si la nota es menor a la nota mínima del ramo (normalmente 1), el resultado debe ser esta nota mínima como se muestra en el ejercicio de arriba
+*Si la nota es menor a la nota mínima del ramo (normalmente 1), el resultado debe ser esta nota mínima como se muestra en el ejercicio de arriba*
 
