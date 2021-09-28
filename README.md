@@ -52,21 +52,11 @@ Recuerden que por este medio igualmente se publican los ejercicios y se pueden e
 -----
 
 
-> Ejercicio 3
+> Ejercicio 4
 
-Como estudiantes siempre nos hemos preocupado de que nuestras notas sean buenas para lograr avanzar en colegios, institutos o universidades. Por esa misma razón los alumnos muchas veces deben calcular su promedio de notas. 
-Tomando en cuenta el caso antes planteado, se solicita crear una "calculadora de notas" la cual debe poder calcular la última nota necesaria para lograr obtener cierto promedio requerido para aprobar el ramo o el promedio que el alumno quiera. Estas notas deben poder ser calculadas con un porcentaje definido por el propio usuario y pueden ser entre 3 y 8 notas. 
-Ejemplo:
+Cada nuevo término de la secuencia de Fibonacci se genera sumando los dos términos anteriores. Al comenzar con 1 y 2, los primeros 10 términos serán:
 
-Entrada:
-- Cantidad de notas: 3
-- Promedio requerido: 4.0
-- Porcentaje Nota 1: 35
-- Nota 1: 5.6
-- Porcentaje Nota 2: 35
-- Nota 2: 6.0
+1, 2, 3, 5, 8, 13, 21, 34, 55, 89, …
 
-Salida: La nota 3 debe ser un "1.0" para lograr el promedio "4.0" requerido
-
-*Si la nota es menor a la nota mínima del ramo (normalmente 1), el resultado debe ser esta nota mínima como se muestra en el ejercicio de arriba*
-
+Al considerar los términos en la secuencia de Fibonacci cuyos valores no excedan 
+los cuatro millones, encuentre la suma de los términos pares.
