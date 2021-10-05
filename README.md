@@ -59,5 +59,6 @@ Ustedes deben poder realizar una selección de piedra, papel o tijera y que el c
 
 Ejemplo:
 Entrada: Papel
+
 Salida: El computador seleccionó “Piedra”. Has ganado tú.
 
