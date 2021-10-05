@@ -52,11 +52,12 @@ Recuerden que por este medio igualmente se publican los ejercicios y se pueden e
 -----
 
 
-> Ejercicio 4
+> Ejercicio 5
 
-Cada nuevo término de la secuencia de Fibonacci se genera sumando los dos términos anteriores. Al comenzar con 1 y 2, los primeros 10 términos serán:
+Desde pequeños siempre han existido juegos que compartimos con amigos, en el colegio o hasta incluso el jardín. Dentro de estos juegos hay uno que siempre se ha mantenido vigente y este es el "piedra, papel o tijera" o mejor llamado aquí en Chile como "cachipun". Como es un juego divertido, que nos permite a veces seleccionar entre dos opciones o dos puntos de vista y seleccionar uno de forma lúdica, se solicita realizar este juego, de manera que uno pueda usarlo contra la computadora.
+Ustedes deben poder realizar una selección de piedra, papel o tijera y que el computador seleccione uno al azar, dando un resultado y mencionando si es una victoria para ustedes, para el computador o es un empate.
 
-1, 2, 3, 5, 8, 13, 21, 34, 55, 89, …
+Ejemplo:
+Entrada: Papel
+Salida: El computador seleccionó “Piedra”. Has ganado tú.
 
-Al considerar los términos en la secuencia de Fibonacci cuyos valores no excedan 
-los cuatro millones, encuentre la suma de los términos pares.
