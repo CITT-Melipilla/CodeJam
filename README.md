@@ -24,11 +24,11 @@ Los equipos participantes irán sumando puntos los cuales serán presentados en 
 
 | Equipo | Puntaje |
 | ------ | ------ |
-| Ignacio Diaz | 39 |
-| Pedro Carrasco | 35 |
-| Jose Lopez | 10 |
-| Luis Portocarrero | 10 |
-| Manuel Medina | 10 |
+| Ignacio Diaz | 93 |
+| Pedro Carrasco | 77 |
+| Jose Lopez | 25 |
+| Luis Portocarrero | 25 |
+| Manuel Medina | 25 |
 
 -----
 
