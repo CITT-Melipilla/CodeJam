@@ -54,7 +54,7 @@ Recuerden que por este medio igualmente se publican los ejercicios y se pueden e
 
 > Ejercicio 6 - TEACHJAM
 
-## Base de datos
+# Base de datos
 En los últimos años TeachJam ha experimentado cambios profundos en la forma en como se administran los datos dentro de la empresa, por lo cual, con la era digital están quedando atrás y los procesos se están demorando más de lo debido, es por esto que eres el elegido para poder resolver esta brecha tecnológica, por lo que se realiza una propuesta a que digitalices la información que actualmente se lleva de forma manual, para ello se creara una vista en la base de datos que adjunte la información de los empleados, información relacionada con la empresa , para poder realizar un seguimiento y mejora a la administración.
 Los campos solicitados para esto son:
 - Nombre completo del empleado (Concatenado)
@@ -68,7 +68,7 @@ Los campos solicitados para esto son:
 *Debe crear un usuario que tenga privilegios de lectura, será este el que interactúe con la vista*
 
 
-## Programacion
+# Programacion
 Gracias al auge de los dispositivos móviles que cada vez más personas se ven en la necesidad de adquirir un teléfono inteligente debido a la enorme utilidad que viene de la conexión y acceso a información en internet. El aumento de la presencia de dispositivos móviles en la población trae como consecuencia la necesidad de adaptabilidad para distintos tipos de usuarios con distintos tipos de necesidades, por ello es importante desarrollar herramientas que faciliten la accesibilidad a los usuarios que así lo requieran. En este caso, para ayudar a cubrir las necesidades de usuarios con poca o nula visión es necesario que desarrolle una herramienta de software que reciba una cantidad expresada en números, la procese y luego la transforme en la misma cantidad pero expresada con palabras, de ésta forma posteriormente se podrá emplear un intérprete de texto a voz que sea de utilidad al grupo objetivo.
 
 Ejemplo:
