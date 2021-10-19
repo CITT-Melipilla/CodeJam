@@ -55,6 +55,7 @@ Recuerden que por este medio igualmente se publican los ejercicios y se pueden e
 > Ejercicio 6 - TEACHJAM
 
 # Base de datos
+-(Para este ejercicio se debe ocupar el script de la tabla HR)
 En los últimos años TeachJam ha experimentado cambios profundos en la forma en como se administran los datos dentro de la empresa, por lo cual, con la era digital están quedando atrás y los procesos se están demorando más de lo debido, es por esto que eres el elegido para poder resolver esta brecha tecnológica, por lo que se realiza una propuesta a que digitalices la información que actualmente se lleva de forma manual, para ello se creara una vista en la base de datos que adjunte la información de los empleados, información relacionada con la empresa , para poder realizar un seguimiento y mejora a la administración.
 Los campos solicitados para esto son:
 - Nombre completo del empleado (Concatenado)
@@ -65,7 +66,7 @@ Los campos solicitados para esto son:
 -	Años que lleva en la empresa (Ejemplo: "27 años")
 -	Salario en formato “$” (Ejemplo: $1.000.000)
 - Se debe ordenar de forma parametrica por el usuario
-*Debe crear un usuario que tenga privilegios de lectura, será este el que interactúe con la vista*
+- Debe crear un usuario que tenga privilegios de lectura, será este el que interactúe con la vista
 
 
 # Programacion
